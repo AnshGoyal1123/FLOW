@@ -2,7 +2,7 @@ Hello! Welcome to the SleepSync repository!
 
 I'm Ansh Goyal, a freshman studying Biomedical Engineering and Computer Science at the Johns Hopkins University.
 
-This repository initially served as the repository for a startup named FLOW, created in August 2023 by a friend who's vision of "helping the world find its FLOW" really resonated with me. Since then, that friend has moved on, disbanding the startup, yet having ignited a curiosity about the wonders of signal processing in me.
+This repository initially served as the repository for a startup named FLOW, created in August 2023 by a friend who's vision of "helping the world find its FLOW" really resonated with me. Since then, that friend has moved on, disbanding the startup, yet having ignited in me a curiosity about the field of signal processing.
 
 To learn more about this intricate field, I continued on my work on the project, turning it into SleepSync, a way for me to explore this marvelous field at my own pace.
 
